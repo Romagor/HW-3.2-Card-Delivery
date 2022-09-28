@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/crjnkef581sgx764?svg=true)](https://ci.appveyor.com/project/Romagor/hw-3-2-card-delivery)
