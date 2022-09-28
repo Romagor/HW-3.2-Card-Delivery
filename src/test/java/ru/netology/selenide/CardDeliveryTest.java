@@ -165,7 +165,7 @@ public class CardDeliveryTest {
     }
 //    bug
     @Test
-   void shouldSendFormWithoutDoubleLastName() {
+   void shouldSendFormWithoutLastName() {
        String planningDate = generateDate(3);
 
         $("[data-test-id='city'] input").setValue("Москва");
